@@ -30,5 +30,6 @@ class TestLogin():
         self.test.page_input_pwd(pwd)
         self.test.page_input_code(yzm)
         self.test.page_click_signin()
+        
 
 
