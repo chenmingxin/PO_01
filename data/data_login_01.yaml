@@ -1,0 +1,12 @@
+Tpshop_login_test_01:
+  tel: "18700000000"
+  pwd: "111111"
+  yzm: "8888"
+Tpshop_login_test_02:
+  tel: "18800000000"
+  pwd: "111112"
+  yzm: "8888"
+Tpshop_login_test_03:
+  tel: "18900000000"
+  pwd: "111113"
+  yzm: "8888"
