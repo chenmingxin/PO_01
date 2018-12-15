@@ -30,7 +30,5 @@ class TestLogin():
         self.test.page_input_pwd(pwd)
         self.test.page_input_code(yzm)
         self.test.page_click_signin()
-        
-    def test_001(self):
-        print("001被执行")
+
 
